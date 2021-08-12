@@ -1,3 +1,4 @@
 gitignore.html
 app.html
-./node_modules
+/node_modules
+/baru
